@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class frmQueueBoard
+Partial Class frmUsers
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -24,13 +24,13 @@ Partial Class frmQueueBoard
     Private Sub InitializeComponent()
         Me.SuspendLayout()
         '
-        'frmQueueBoard
+        'frmUsers
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(769, 431)
-        Me.Name = "frmQueueBoard"
-        Me.Text = "[Company]-Queue Board"
+        Me.ClientSize = New System.Drawing.Size(517, 348)
+        Me.Name = "frmUsers"
+        Me.Text = "frmUsers"
         Me.ResumeLayout(False)
 
     End Sub

@@ -102,6 +102,18 @@
     <Compile Include="forms\reservation\frmReservation.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="forms\system\frmCASetup.Designer.vb">
+      <DependentUpon>frmCASetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\system\frmCASetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\system\frmUsers.Designer.vb">
+      <DependentUpon>frmUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\system\frmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -119,6 +131,21 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="forms\inventory\frmInventory.resx">
+      <DependentUpon>frmInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\queueboard\frmQueueBoard.resx">
+      <DependentUpon>frmQueueBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\reservation\frmReservation.resx">
+      <DependentUpon>frmReservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\system\frmCASetup.resx">
+      <DependentUpon>frmCASetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\system\frmUsers.resx">
+      <DependentUpon>frmUsers.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
