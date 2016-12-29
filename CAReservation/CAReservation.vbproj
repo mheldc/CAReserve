@@ -72,6 +72,36 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="forms\billing\frmBilling.Designer.vb">
+      <DependentUpon>frmBilling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\billing\frmBilling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\cashier\frmCashiering.Designer.vb">
+      <DependentUpon>frmCashiering.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\cashier\frmCashiering.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\inventory\frmInventory.Designer.vb">
+      <DependentUpon>frmInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\inventory\frmInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\queueboard\frmQueueBoard.Designer.vb">
+      <DependentUpon>frmQueueBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\queueboard\frmQueueBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\reservation\frmReservation.Designer.vb">
+      <DependentUpon>frmReservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\reservation\frmReservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -107,6 +137,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="class\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
