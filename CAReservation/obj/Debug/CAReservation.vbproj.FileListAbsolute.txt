@@ -1,1 +1,6 @@
 c:\users\romel\documents\visual studio 2015\Projects\CAReservation\CAReservation\bin\Debug\CAReservation.exe.config
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.vbprojResolveAssemblyReference.cache
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.Resources.resources
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.vbproj.GenerateResource.Cache
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.xml
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\bin\Debug\CAReservation.exe.config
