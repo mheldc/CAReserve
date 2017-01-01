@@ -4,3 +4,13 @@ C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.
 C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.vbproj.GenerateResource.Cache
 C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.xml
 C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\bin\Debug\CAReservation.exe.config
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\bin\Debug\CAReservation.exe
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\bin\Debug\CAReservation.pdb
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\bin\Debug\CAReservation.xml
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.frmInventory.resources
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.frmQueueBoard.resources
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.frmReservation.resources
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.frmCASetup.resources
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.frmUsers.resources
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.exe
+C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.pdb
