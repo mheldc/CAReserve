@@ -14,3 +14,7 @@ C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.
 C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.frmUsers.resources
 C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.exe
 C:\Users\Romel\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.pdb
+C:\Users\Marc\Documents\GitHub\CAReserve\CAReservation\bin\Debug\CAReservation.exe.config
+C:\Users\Marc\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.exe
+C:\Users\Marc\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.xml
+C:\Users\Marc\Documents\GitHub\CAReserve\CAReservation\obj\Debug\CAReservation.pdb
